@@ -3,7 +3,7 @@
 
 ---
 
-## About Me
+## 🫧About Me
 
 I have combined self-taught technical skills with emotional awareness to create real impact.
 I am not someone who just writes or codes. I connect what I learn in books to the real world.
@@ -13,7 +13,7 @@ and strive to adapt and grow within it.
 
 ---
 
-## Skills
+## 📈Skills
 
 **Languages**
 - Python  
