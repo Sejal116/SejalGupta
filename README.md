@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I’m Sejal Gupta 👋</h1>
 <h3 align="center">Learning. Building. Iterating.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sejal116&style=flat-square" />
-</p>
-
 ---
 
 ## About Me
@@ -93,14 +89,6 @@ Focused on understanding deployment workflows, iteration, and improving applicat
 This experience reinforced that building software is not just about writing code, but making it usable in real contexts.
 
 **Tech:** Expo, Firebase, GitHub
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sejal116&show_icons=true&theme=default" />
-</p>
 
 ---
 
