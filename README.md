@@ -75,15 +75,17 @@ Includes projects such as Trex Game and Monkey Go Happy.
 These projects reflect my interest in creative problem solving and building engaging experiences through code.
 
 **Tech:** JavaScript, CSS, p5.js  
+🔗 https://github.com/Sejal116/Trex-Game
 
 ---
 
-### 🚀 App Publishing and Deployment
-Hands on experience with preparing, testing, and publishing applications beyond local development.
-Focused on understanding deployment workflows, iteration, and improving applications based on usability and feedback.
-This experience reinforced that building software is not just about writing code, but making it usable in real contexts.
+## 📚 e-Library application
 
-**Tech:** Expo, Firebase, GitHub
+A mobile e-library application built using **React Native, Expo, and HTML**, designed to explore navigation, component-based UI design, and managing structured content in a clean, user-friendly way. 
+The application focuses on browsing and interacting with digital book data, helping me understand how real-world mobile applications organize information and present it meaningfully to users.
+
+**Tech:** JavaScript, React Native, Expo, Firebase, HTML
+🔗 https://github.com/Sejal116/e-library-C71
 
 ---
 
